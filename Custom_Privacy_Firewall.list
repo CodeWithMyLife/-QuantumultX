@@ -6,3 +6,7 @@ DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
 DOMAIN-SUFFIX,safebrowsing.googleapis.com
 # 拒绝百度网址安全检查
 DOMAIN-SUFFIX,lookup.api.bsb.baidu.com
+# 疑似微软SDK收集APP运行信息
+DOMAIN-SUFFIX,in.appcenter.ms
+# 疑似FACEBOOK收集信息
+DOMAIN-SUFFIX,graph.facebook.com
