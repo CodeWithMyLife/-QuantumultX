@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,lookup.api.bsb.baidu.com
 DOMAIN-SUFFIX,in.appcenter.ms
 # 疑似FACEBOOK收集信息
 DOMAIN-SUFFIX,graph.facebook.com
+# 拒绝应用上传报告
+DOMAIN-SUFFIX,report.url.cn
