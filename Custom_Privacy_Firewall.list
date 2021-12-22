@@ -1,15 +1,15 @@
 # 拒绝拦截100联网(疑似偷偷上传隐私)
-DOMAIN-SUFFIX,hyhuo.com
+HOST,hyhuo.com
 # 拒绝腾讯网址安全检查
-DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com
+HOST,safebrowsing.urlsec.qq.com
 # 拒绝腾讯网址安全检查
-DOMAIN-SUFFIX,safebrowsing.googleapis.com
+HOST,safebrowsing.googleapis.com
 # 拒绝百度网址安全检查
-DOMAIN-SUFFIX,lookup.api.bsb.baidu.com
+HOST,lookup.api.bsb.baidu.com
 # 疑似微软SDK收集APP运行信息
-DOMAIN-SUFFIX,in.appcenter.ms
+HOST,in.appcenter.ms
 # 疑似FACEBOOK收集信息
-DOMAIN-SUFFIX,graph.facebook.com
+HOST,graph.facebook.com
 # 拒绝应用上传报告
-DOMAIN-SUFFIX,report.url.cn
-DOMAIN-SUFFIX,oss.mail.qq.com
+HOST,report.url.cn
+HOST,oss.mail.qq.com
