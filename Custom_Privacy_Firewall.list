@@ -14,7 +14,7 @@ HOST-SUFFIX,graph.facebook.com
 HOST-SUFFIX,report.url.cn
 HOST-SUFFIX,oss.mail.qq.com
 
-# 拒绝应用追踪补充
+# 拒绝应用追踪补充规则
 IP-CIDR,101.124.19.122/32
 HOST-SUFFIX,10148.engine.mobileapptracking.com
 HOST-SUFFIX,10896.engine.mobileapptracking.com
