@@ -9,7 +9,7 @@ HOST-SUFFIX,lookup.api.bsb.baidu.com
 # 疑似微软SDK收集APP运行信息
 HOST-SUFFIX,in.appcenter.ms
 # 疑似FACEBOOK收集信息
-HOST-SUFFIX,graph.facebook.com
+HOST,graph.facebook.com
 # 拒绝应用上传报告
 HOST-SUFFIX,report.url.cn
 HOST-SUFFIX,oss.mail.qq.com
