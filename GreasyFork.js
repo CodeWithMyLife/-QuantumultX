@@ -1,0 +1,3 @@
+# > GreasyFork 转换
+^https:\/\/greasyfork\.org\/scripts\/.*\.user\.js url script-response-body https://raw.githubusercontent.com/Peng-YM/QuanX/master/Rewrites/GreasyFork/greasy-fork.js
+hostname = greasyfork.org
