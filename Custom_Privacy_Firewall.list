@@ -14,6 +14,7 @@ HOST,graph.facebook.com
 HOST-SUFFIX,report.url.cn
 HOST-SUFFIX,oss.mail.qq.com
 HOST-SUFFIX,umengcloud.com
+HOST,ios.bugly.qq.com
 
 # 拒绝应用追踪补充规则
 IP-CIDR,101.124.19.122/32
