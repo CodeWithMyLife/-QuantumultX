@@ -15,3 +15,5 @@ HOST-SUFFIX,report.url.cn
 HOST-SUFFIX,oss.mail.qq.com
 HOST-SUFFIX,umengcloud.com
 HOST,ios.bugly.qq.com
+HOST,zhihu-web-analytics.zhihu.com
+HOST-SUFFIX,analytics.zhihu.com
