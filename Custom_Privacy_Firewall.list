@@ -1,5 +1,5 @@
 # 拒绝拦截100联网(疑似偷偷上传隐私)
-HOST-SUFFIX,hyhuo.com
+#HOST-SUFFIX,hyhuo.com
 # 拒绝腾讯网址安全检查
 HOST-SUFFIX,safebrowsing.urlsec.qq.com
 # 拒绝腾讯网址安全检查
