@@ -1,3 +1,4 @@
+shadowsocks = beijing.bh3bbb.com:1187, method=aes-128-ctr, password=nexitally, ssr-protocol=auth_aes128_md5, obfs=tls1.2_ticket_fastauth, fast-open=false, udp-relay=false, tag=北京
 shadowsocks = 14.29.124.168:25000, method=aes-128-cfb, password=QazEdcTgb159@$*, fast-open=false, udp-relay=true, tag=China00
 shadowsocks = 14.29.124.168:25001, method=aes-128-cfb, password=QazEdcTgb159@$*, fast-open=false, udp-relay=true, tag=China01
 shadowsocks = 14.29.124.168:25002, method=aes-128-cfb, password=QazEdcTgb159@$*, fast-open=false, udp-relay=true, tag=China02
